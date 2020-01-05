@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "https://github.com/Cloudmersive/Cloudmersive.APIClient.Go.DocumentAndDataConvert.git"
+import "github.com/Cloudmersive/Cloudmersive.APIClient.Go.DocumentAndDataConvert"
 
 func main() {
 	fmt.Printf("hello, world\n")
